@@ -1,6 +1,13 @@
-<h1 align="center"> Halo, 你好, Bonjour, こんにちは, مرحبًا </h1>
+<h1 align="center"> Halo, 你好, Bonjour, こんにちは, مرحبًا, Hello </h1>
 
 ## Hello Everyone, I'm Muhammad Ayyubi 
+##### I am currently studying at Sekolah Impian - Quadrant Boarding School Bogor as a high school student, and I aspire to be a Biomedical Engineer.
+
+
+
+
+
+
 
 <!--
 **myubitanfidz/myubitanfidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
